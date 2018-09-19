@@ -1,4 +1,6 @@
 # NeedleInTheHaystack
+//CIS269 Programming Maintenance - Debug and refactor the broken program
+//Christine Cullen Spring 2018
 Finds the Index of a substring within a string
 
 // findSubString

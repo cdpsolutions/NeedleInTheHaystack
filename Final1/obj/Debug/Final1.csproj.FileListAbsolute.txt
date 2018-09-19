@@ -1,0 +1,46 @@
+H:\CIS 269\String Search\Final1\obj\Debug\Final1.exe
+H:\CIS 269\String Search\Final1\obj\Debug\Final1.pdb
+H:\CIS 269\String Search\Final1\bin\Debug\Final1.exe
+H:\CIS 269\String Search\Final1\bin\Debug\Final1.pdb
+H:\CIS 269\String Search\Final1\obj\Debug\ResolveAssemblyReference.cache
+H:\CIS 269\String Search\Final1\obj\Debug\Final1.Form1.resources
+H:\CIS 269\String Search\Final1\obj\Debug\Final1.Properties.Resources.resources
+H:\CIS 269\String Search\Final1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\CIS 269\String Search\Final1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\skollmansberger\Documents\Visual Studio 2010\Projects\String Search\Final1\obj\Debug\Final1.exe
+C:\Users\skollmansberger\Documents\Visual Studio 2010\Projects\String Search\Final1\obj\Debug\Final1.pdb
+C:\Users\skollmansberger\Documents\Visual Studio 2010\Projects\String Search\Final1\bin\Debug\Final1.exe
+C:\Users\skollmansberger\Documents\Visual Studio 2010\Projects\String Search\Final1\bin\Debug\Final1.pdb
+C:\Users\skollmansberger\Documents\Visual Studio 2010\Projects\String Search\Final1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skollmansberger\Documents\Visual Studio 2010\Projects\String Search\Final1\obj\Debug\Final1.Form1.resources
+C:\Users\skollmansberger\Documents\Visual Studio 2010\Projects\String Search\Final1\obj\Debug\Final1.Properties.Resources.resources
+C:\Users\skollmansberger\Documents\Visual Studio 2010\Projects\String Search\Final1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\skollmansberger\Documents\Visual Studio 2010\Projects\String Search\Final1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Steve\Documents\CIS 269 SP12\WORKING\String Search\Final1\obj\Debug\Final1.exe
+C:\Users\Steve\Documents\CIS 269 SP12\WORKING\String Search\Final1\obj\Debug\Final1.pdb
+F:\CIS 269 (Software Maintenance)\Archive\CIS 269 SP13\Weeks 2 and 3\String Search\Final1\obj\Debug\Final1.exe
+F:\CIS 269 (Software Maintenance)\Archive\CIS 269 SP13\Weeks 2 and 3\String Search\Final1\obj\Debug\Final1.pdb
+F:\CIS 269 (Software Maintenance)\Archive\CIS 269 SP13\Weeks 2 and 3\String Search\Final1\bin\Debug\Final1.exe
+F:\CIS 269 (Software Maintenance)\Archive\CIS 269 SP13\Weeks 2 and 3\String Search\Final1\bin\Debug\Final1.pdb
+F:\CIS 269 (Software Maintenance)\Archive\CIS 269 SP13\Weeks 2 and 3\String Search\Final1\obj\Debug\Final1.csprojResolveAssemblyReference.cache
+F:\CIS 269 (Software Maintenance)\Archive\CIS 269 SP13\Weeks 2 and 3\String Search\Final1\obj\Debug\Final1.Form1.resources
+F:\CIS 269 (Software Maintenance)\Archive\CIS 269 SP13\Weeks 2 and 3\String Search\Final1\obj\Debug\Final1.Properties.Resources.resources
+F:\CIS 269 (Software Maintenance)\Archive\CIS 269 SP13\Weeks 2 and 3\String Search\Final1\obj\Debug\Final1.csproj.GenerateResource.Cache
+C:\Users\cdpso\Desktop\Software\W2 String Search\String Search\Final1\bin\Debug\Final1.exe
+C:\Users\cdpso\Desktop\Software\W2 String Search\String Search\Final1\bin\Debug\Final1.pdb
+C:\Users\cdpso\Desktop\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.csprojResolveAssemblyReference.cache
+C:\Users\cdpso\Desktop\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.Form1.resources
+C:\Users\cdpso\Desktop\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.Properties.Resources.resources
+C:\Users\cdpso\Desktop\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.csproj.GenerateResource.Cache
+C:\Users\cdpso\Desktop\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.csproj.CoreCompileInputs.cache
+C:\Users\cdpso\Desktop\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.exe
+C:\Users\cdpso\Desktop\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.pdb
+C:\Users\cdpso\Desktop\Other classes\Software\W2 String Search\String Search\Final1\bin\Debug\Final1.exe
+C:\Users\cdpso\Desktop\Other classes\Software\W2 String Search\String Search\Final1\bin\Debug\Final1.pdb
+C:\Users\cdpso\Desktop\Other classes\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.csprojResolveAssemblyReference.cache
+C:\Users\cdpso\Desktop\Other classes\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.Form1.resources
+C:\Users\cdpso\Desktop\Other classes\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.Properties.Resources.resources
+C:\Users\cdpso\Desktop\Other classes\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.csproj.GenerateResource.Cache
+C:\Users\cdpso\Desktop\Other classes\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.csproj.CoreCompileInputs.cache
+C:\Users\cdpso\Desktop\Other classes\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.exe
+C:\Users\cdpso\Desktop\Other classes\Software\W2 String Search\String Search\Final1\obj\Debug\Final1.pdb
